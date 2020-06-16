@@ -34,9 +34,5 @@ The dependencies required:
   }
   ```
 
-Documentation on express:
-
-* [Express](https://expressjs.com/) - web framework for Node.js
-
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
