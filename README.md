@@ -1,6 +1,6 @@
 # Note-Taker
 
-Web application that allows a user to write, save, and delete notes using an express backend. It can be utilized much like a notebook via the browser. It is deployed via Heroku [here](https://justin-note-taker.herokuapp.com/).
+Web application that allows a user to write, save, and delete notes using an express backend. It can be utilized much like a notebook via the browser. It is deployed via Heroku [here](https://vast-peak-71817.herokuapp.com/).
 
 ## Usage
 ### Online
