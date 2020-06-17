@@ -16,9 +16,9 @@ The web app will begin to be hosted on [localhost:3000](localhost:3000).
 After the landing page, the note taking interface is displayed where the you can view previously saved notes, create new notes and delete notes. The notes are saved in a `.json` file in the backend.
 
 # Screenshots
-![Landing Page]()
+![Landing Page](https://github.com/JOH07995/Note-Taker/blob/master/screens/Welcome%20Page.png?raw=true)
 
-![Note Taking]()
+![Note Taking](https://github.com/JOH07995/Note-Taker/blob/master/screens/Note%20Taking.png?raw=true)
 
 # Technologies
 
