@@ -11,9 +11,11 @@ To install and use locally, ```git clone``` this repository (or download and unz
 ```bash
 npm start
 ```
-The web app will begin to be hosted on [localhost:3000](localhost:3000).
+The web app will be hosted on [localhost:3000](localhost:3000).
 
-After the landing page, the note taking interface is displayed where the you can view previously saved notes, create new notes and delete notes. The notes are saved in a `.json` file in the backend.
+After the landing page, the note taking interface is presented where you can view any previously saved notes, create new notes and delete notes. 
+
+These notes are saved in a `.json` file in the backend.
 
 # Screenshots
 ![Landing Page](https://github.com/JOH07995/Note-Taker/blob/master/screens/Welcome%20Page.png?raw=true)
@@ -22,7 +24,7 @@ After the landing page, the note taking interface is displayed where the you can
 
 # Technologies
 
-This application was built with:
+This application is built with:
 
 * HTML
 * CSS
@@ -30,14 +32,6 @@ This application was built with:
 * JavaScript
 * [Express](https://expressjs.com/)
 * [Node](https://nodejs.org/en/)
-
-The dependencies required:
-
-```
-  "dependencies": {
-    "express": "^4.16.4"
-  }
-  ```
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
